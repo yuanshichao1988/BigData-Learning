@@ -6,10 +6,10 @@
 > [lxw的大数据田地](http://lxw1234.com/)
 > [官网](http://hadoop.apache.org)
 ### Hadoop
-#### [Hadoop新手学习指导](http://www.aboutyun.com/thread-6179-1-1.html)
-#### [零基础学习hadoop到上手工作线路指导（初级篇）](http://www.aboutyun.com/thread-6780-1-1.html)
-#### [Hadoop家族学习路线图-较旧](http://www.open-open.com/lib/view/open1384084364227.html)
-#### [Hadoop快速入门](http://hadoop.apache.org/docs/r1.0.4/cn/quickstart.html)
+- [Hadoop新手学习指导](http://www.aboutyun.com/thread-6179-1-1.html)
+- [零基础学习hadoop到上手工作线路指导（初级篇）](http://www.aboutyun.com/thread-6780-1-1.html)
+- [Hadoop家族学习路线图-较旧](http://www.open-open.com/lib/view/open1384084364227.html)
+- [Hadoop快速入门](http://hadoop.apache.org/docs/r1.0.4/cn/quickstart.html)
 ---
 ### 相关技术栈
 - MapReduce
