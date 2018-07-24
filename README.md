@@ -1,10 +1,10 @@
 ## 大数据学习
 ![image](https://github.com/yuanshichao1988/BigData-Learning/blob/master/img/icon.jpg)
 > 推荐学习网站  
-> [aboutyun](http://www.aboutyun.com/)
-> [过往记忆](https://www.iteblog.com/)
-> [lxw的大数据田地](http://lxw1234.com/)
-> [官网](http://hadoop.apache.org)
+> [aboutyun](http://www.aboutyun.com/)  
+> [过往记忆](https://www.iteblog.com/)  
+> [lxw的大数据田地](http://lxw1234.com/)  
+> [官网](http://hadoop.apache.org)  
 ### Hadoop
 - [Hadoop新手学习指导](http://www.aboutyun.com/thread-6179-1-1.html)
 - [零基础学习hadoop到上手工作线路指导（初级篇）](http://www.aboutyun.com/thread-6780-1-1.html)
