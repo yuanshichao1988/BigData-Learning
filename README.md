@@ -1,6 +1,6 @@
 ## 大数据学习
 ---
-![image](https://github.com/yuanshichao1988/BigData-Learning/img/icon.jpg)
+![image](https://github.com/yuanshichao1988/BigData-Learning/blob/master/img/icon.jpg)
 > 推荐学习网站  
 [aboutyun](http://www.aboutyun.com/)
 [过往记忆](https://www.iteblog.com/)
