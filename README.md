@@ -1,5 +1,4 @@
 ## 大数据学习
----
 ![image](https://github.com/yuanshichao1988/BigData-Learning/blob/master/img/icon.jpg)
 > 推荐学习网站  
 > [aboutyun](http://www.aboutyun.com/)
@@ -23,6 +22,7 @@
 - ZooKeeper
 - Flume
 - YARN
+---
 ### Spark
 #### [spark零基础学习线路指导](http://www.aboutyun.com/thread-21959-1-1.html)
 #### [Spark--最全面详解从理论、实践到案例【附案例及数据】](http://www.aboutyun.com/forum.php?mod=viewthread&tid=24883)
@@ -30,12 +30,14 @@
 ### 相关技术栈
 - Spark Streaming
 - RDD
+---
 ### Kafka
 
 ---
 ### 相关技术栈
 - Kafka
 - Kafka Streaming
+---
 ### Zeppelin
 - Zeppelin
 
